@@ -45,6 +45,5 @@ public class ej5_13 {
         System.out.println("La altura mas baja es: "+min);
         System.out.println("Hay "+encima+" por encima de la media");
         System.out.println("Hay "+debajo+" por debajo de la media");
-        System.out.println("He añadido estas lineas");
     }
 }
